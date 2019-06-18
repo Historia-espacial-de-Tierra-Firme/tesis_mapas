@@ -15,7 +15,7 @@ Bituima,,,,,4.874444,-74.540556
 Boca de Nechí,,Zaragoza,,Antioquia,8.095833,-74.775
 Bochalema,,,,,7.611389,-72.647222
 Bosa,,,,,4.616944,-74.19
-Boyacá,Valle de Boyacá,,,Tunja,5.453267,-73.362765
+Boyacá,Valle de Boyacá,,Pueblo,Tunja,5.453267,-73.362765
 Buchadó,,,,,6.366669,-76.767008
 Buga,,,Villa,,3.899631,-76.301996
 Busbanzá,,,,,5.830278,-72.884167
@@ -42,7 +42,7 @@ Ciudad Real,,Las Bonitas,Poblado,,7.86847,-65.660502
 Coyaima,,,,,3.7975,-75.193889
 Cucunubá,,,,,5.25,-73.766111
 Cúcuta,,,,,7.886378,-72.504331
-Cuenca,,,,,7.886378,-72.504331
+Cuenca,,,,,-2.897637,-79.004552
 Darién,,,,,8.06885,-76.931181
 Fómeque,,,,,4.484722,-73.893611
 Gachetá,,,,,4.816389,-73.636111
@@ -62,9 +62,7 @@ Icabuco,,,Encomienda,,5.342405,-73.44979
 La Asunción,,,Ciudad,,11.029764,-63.867135
 La Guaira,,,,,10.6,-66.933056
 La Mesa,,,Parroquia,,4.632237,-74.463026
-La Mesa,,,,,4.630278,-74.4625
-La Palma,,La Peña,,,5.360556,-74.389722
-La Peña,,,,,5.360556,-74.389722
+La Palma,La Peña,La Peña,,,5.360556,-74.389722
 La Plata,,,,,2.39,-75.891944
 La Uvita,,,,,6.316111,-72.56
 Labranzagrande,,,,,5.563333,-72.5775
@@ -97,7 +95,7 @@ Páramo,,,,Socorro,6.415556,-73.170833
 Pauna,,,,,5.656111,-73.978889
 Penonomé,,,,,8.518722,-80.355292
 Pesca,,,,,5.558889,-73.050278
-Piedecuesta,,,,,6.985882,-73.050209
+Pie de Cuesta,Piedecuesta,Piedecuesta,Sitio,Girón,6.985882,-73.050209
 Pital,,,,Neiva,2.266944,-75.805278
 Popayán,,,Ciudad,,2.441882,-76.60632
 Pore,,,,,5.72722,-71.9947
@@ -144,8 +142,8 @@ Soraca,,,,,5.501576,-73.333559
 Suesca,,,,,5.101667,-73.798056
 Supía,,,,,5.450556,-75.651389
 Tadó,,,,,5.263333,-76.56
-Támara,,,Pueblo,Los Llanos,5.830278,-72.162222
 Tamalameque,,,,,8.858889,-73.813889
+Támara,,,Pueblo,Los Llanos,5.830278,-72.162222
 Teguas,,,Pueblo,Tunja,4.952657,-73.182571
 Tenerife,,,,,9.897805,-74.862025
 Tenza,,,,,5.076944,-73.421111
